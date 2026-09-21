@@ -15,9 +15,10 @@
     ],
     "RepoUrl": "https://github.com/ASCIIcat/PrivateMarks",
     "IconUrl": "https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/icons/PrivateMarks.png",
-    "IsHide": true,
+    "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.0/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.0/latest.zip",
+    "LastUpdate": 1790003157
   }
 ]

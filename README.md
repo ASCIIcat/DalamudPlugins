@@ -4,7 +4,7 @@ A shared custom repository for Dalamud plugins by AdelaideTheBun ♥.
 
 ## Installation
 
-Once the repositories and release are published, add this URL in Dalamud Settings → Experimental → Custom Plugin Repositories, enable it, and save:
+Add this URL in Dalamud Settings → Experimental → Custom Plugin Repositories, enable it, and save:
 
 ```text
 https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/pluginmaster.json
@@ -16,16 +16,9 @@ Then install the desired plugin from the plugin installer.
 
 - [Private Marks](https://github.com/ASCIIcat/PrivateMarks): private visual player marks and off-screen indicators.
 
-## First publication
+## Current release
 
-The initial Private Marks entry has `IsHide: true` until its download is available.
-
-1. Publish the PrivateMarks source repository to ASCIIcat/PrivateMarks.
-2. Create release v1.0.0 there and attach the generated PrivateMarks/bin/Release/PrivateMarks/latest.zip.
-3. Confirm that the ZIP's manifest reports InternalName PrivateMarks, AssemblyVersion 1.0.0.0, and DalamudApiLevel 15.
-4. Publish this repository to ASCIIcat/DalamudPlugins and verify the raw icon and catalogue URLs.
-5. Verify the release download URL, set IsHide to false, and commit and push the catalogue change.
-6. Test installation through the shared repository URL.
+Private Marks 1.0.0 is published and enabled. Its package manifest includes the hosted installer icon.
 
 ## Updating and adding plugins
 
