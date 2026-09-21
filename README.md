@@ -18,7 +18,7 @@ Then install the desired plugin from the plugin installer.
 
 ## Current release
 
-Private Marks 1.0.0 is published and enabled. Its package manifest includes the hosted installer icon.
+Private Marks 1.0.1 is published and enabled. Its package manifest includes the hosted installer icon.
 
 ## Updating and adding plugins
 

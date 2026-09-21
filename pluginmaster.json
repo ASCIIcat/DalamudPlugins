@@ -3,7 +3,7 @@
     "Author": "AdelaideTheBun ♥",
     "Name": "Private Marks",
     "InternalName": "PrivateMarks",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Manually assign private visual marks to players, with loaded-player edge indicators and optional remembered favourites.",
     "Punchline": "Keep your people in sight. Only on your screen.",
     "ApplicableVersion": "any",
@@ -14,11 +14,11 @@
       "overlay"
     ],
     "RepoUrl": "https://github.com/ASCIIcat/PrivateMarks",
-    "IconUrl": "https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/icons/PrivateMarks.png",
+    "IconUrl": "https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/icons/PrivateMarks-512.png",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.0/latest.zip",
-    "LastUpdate": 1790003157
+    "DownloadLinkInstall": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ASCIIcat/PrivateMarks/releases/download/v1.0.1/latest.zip",
+    "LastUpdate": 1790003539
   }
 ]
